@@ -1,0 +1,6 @@
+angry=input("are you angry")
+if hungry=='yes'
+ print("eat chocolates")
+ print("be cool")
+else
+ print("do the lab ex")
